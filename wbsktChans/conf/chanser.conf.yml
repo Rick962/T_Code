@@ -1,0 +1,10 @@
+ServerIP: 0.0.0.0
+
+ServerPort: 6389
+
+AllowIPsON: true
+
+AllowedIPs: 127.0.0.1
+
+BytesChans:
+    355fd491c38b372dc6e0bb96a01b0a79: vb:ticker:chan:BQQ

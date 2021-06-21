@@ -1,0 +1,11 @@
+R_Host_Port: 127.0.0.1:6379
+# 默认数据库
+R_DB: 0
+# 最大的空闲连接数
+R_MaxIdle: 1
+# 超时单位秒
+R_IdleTimeout: 180
+# 超时单位秒
+R_DialConnectTimeout: 30
+# 超时单位秒
+R_DialReadTimeout: 120
